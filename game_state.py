@@ -11,3 +11,4 @@ class GameState(Enum):
 class RoundWinner(Enum):
     ORDINATEUR = 0
     JOUEUR = 1
+    EGALITE = 2
