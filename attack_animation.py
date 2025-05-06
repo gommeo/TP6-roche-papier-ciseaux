@@ -1,3 +1,9 @@
+"""
+Oscar Gomme
+Class pour gérer les animations
+"""
+
+
 from enum import Enum
 import arcade
 ATTACK_SCALE = 0.50
