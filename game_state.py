@@ -1,3 +1,9 @@
+"""
+Oscar Gomme
+class pour les game states
+"""
+
+
 from enum import Enum
 
 
